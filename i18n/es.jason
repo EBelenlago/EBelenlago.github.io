@@ -1,0 +1,11 @@
+{
+  "nav_home": "Inicio",
+  "nav_about": "Sobre mí",
+  "nav_projects": "Proyectos",
+  "nav_contact": "Contacto",
+
+  "hero_title": "Técnica Superior en Ciencia de Datos e Inteligencia Artificial",
+  "hero_text_1": "Desarrollo proyectos de datos end-to-end, combinando análisis, modelos predictivos, visualización y bases de datos para la toma de decisiones.",
+  "hero_text_2": "Trabajo con Python, SQL, Power BI, machine learning y herramientas de visualización en tiempo real como Grafana.",
+  "hero_button": "Ver proyectos"
+}

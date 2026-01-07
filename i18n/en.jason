@@ -1,0 +1,11 @@
+{
+  "nav_home": "Home",
+  "nav_about": "About",
+  "nav_projects": "Projects",
+  "nav_contact": "Contact",
+
+  "hero_title": "Higher Technician in Data Science and Artificial Intelligence",
+  "hero_text_1": "I develop end-to-end data projects, combining analysis, predictive models, visualization and databases to support decision-making.",
+  "hero_text_2": "I work with Python, SQL, Power BI, machine learning and real-time visualization tools such as Grafana.",
+  "hero_button": "View projects"
+}
