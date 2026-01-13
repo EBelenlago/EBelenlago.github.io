@@ -87,3 +87,43 @@ footer {
   margin-top: 3rem;
   font-size: 0.9rem;
 }
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f7f7f7;
+    color: #333;
+}
+
+header {
+    background-color: #1f2933;
+    color: white;
+    padding: 30px;
+    text-align: center;
+}
+
+main {
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 0 20px;
+}
+
+.project {
+    background: white;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+}
+
+.project h2 {
+    margin-top: 0;
+}
+
+.project-links a {
+    display: inline-block;
+    margin-right: 15px;
+    margin-top: 10px;
+    text-decoration: none;
+    color: #2563eb;
+    font-weight: bold;
+}
